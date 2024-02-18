@@ -1,7 +1,8 @@
 print("Develop")
 
 def myFunction():
-    print()
+    print("Add change from feature-functions")
+    print("")
 
 class myClass:
     def __init__(self, name, surname): # class constructor
